@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>exe</OutputType>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+    <Authors>Ales Potocnik</Authors>
+    <Description>Agent executes the test setups and scenarios</Description>
+    <ApplicationIcon />
+    <OutputTypeEx>exe</OutputTypeEx>
+    <StartupObject />
+  </PropertyGroup>
+
+</Project>
